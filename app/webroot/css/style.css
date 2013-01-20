@@ -1,0 +1,86 @@
+.table-headers th{
+	font-size: 10px;
+	text-align: center;
+	line-height: 10px;
+}
+.timesheet-row td {
+	text-align: center;
+}
+.timesheet-row input {
+	font-size: 12px;
+	height: 14px;
+}
+#TimeSheetNotes {
+	width: 90%;
+}
+.ui-timepicker-div {
+	font-size:12px;
+}
+.ui-datepicker {
+  width: 13em;
+}
+.icon-remove {
+	cursor: pointer;
+	margin-right: 15px;
+}
+#btnTimesheetSubmit {
+	margin-left: 30px;
+}
+.text-left {
+	text-align: left !important;
+}
+.icon-row {
+	width: 55px;
+}
+.center {
+	text-align: center !important;
+}
+.user-notes {
+	color: #999;
+	font-style: italic;
+}
+#approve-all {
+	cursor: pointer;
+}
+#SavedSheets {
+	margin-top:100px;
+	padding: 7px 0px 7px 25px;
+}
+#SavedSheetsTable {
+	padding: 0;
+}
+#IconForChecked {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.current_page {
+	background-color: whiteSmoke;
+	color: #999;
+	cursor: default;
+	float: left;
+	padding: 0 14px;
+	line-height: 38px;
+	text-decoration: none;
+	border: 1px solid #DDD;
+	border-left-width: 0;
+}
+.form-horizontal .controls {
+	margin-left: 20px;
+}
+#dialog-form {display:none;}
+#dialog-form .control-group {
+	margin-bottom: 10px;
+}
+#SettingsAlert {
+	font-size: 10px;
+	padding: 0px 10px;
+	margin-bottom: 10px;
+}
+#SettingDashboardForm label {min-width: 75px;}
+#SettingDashboardForm .input-small {}
+#UserHireDateDay { width: 80px; }
+#UserHireDateYear { width: 90px; }
+#approvedSheetsDiv {
+	position: relative;
+	top: 90px;
+}
